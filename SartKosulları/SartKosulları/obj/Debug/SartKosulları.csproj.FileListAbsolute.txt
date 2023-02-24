@@ -1,0 +1,7 @@
+C:\Users\busra.toktay\Desktop\BÜŞRA HARDDİSK\BÜŞRA YAZILIM\Projeler\16.02.2023-Uygulama\SartKosulları\SartKosulları\bin\Debug\SartKosulları.exe.config
+C:\Users\busra.toktay\Desktop\BÜŞRA HARDDİSK\BÜŞRA YAZILIM\Projeler\16.02.2023-Uygulama\SartKosulları\SartKosulları\bin\Debug\SartKosulları.exe
+C:\Users\busra.toktay\Desktop\BÜŞRA HARDDİSK\BÜŞRA YAZILIM\Projeler\16.02.2023-Uygulama\SartKosulları\SartKosulları\bin\Debug\SartKosulları.pdb
+C:\Users\busra.toktay\Desktop\BÜŞRA HARDDİSK\BÜŞRA YAZILIM\Projeler\16.02.2023-Uygulama\SartKosulları\SartKosulları\obj\Debug\SartKosulları.csproj.AssemblyReference.cache
+C:\Users\busra.toktay\Desktop\BÜŞRA HARDDİSK\BÜŞRA YAZILIM\Projeler\16.02.2023-Uygulama\SartKosulları\SartKosulları\obj\Debug\SartKosulları.csproj.CoreCompileInputs.cache
+C:\Users\busra.toktay\Desktop\BÜŞRA HARDDİSK\BÜŞRA YAZILIM\Projeler\16.02.2023-Uygulama\SartKosulları\SartKosulları\obj\Debug\SartKosulları.exe
+C:\Users\busra.toktay\Desktop\BÜŞRA HARDDİSK\BÜŞRA YAZILIM\Projeler\16.02.2023-Uygulama\SartKosulları\SartKosulları\obj\Debug\SartKosulları.pdb
